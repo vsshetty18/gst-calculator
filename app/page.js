@@ -225,7 +225,7 @@ export default function GSTCalculator() {
           <div className={styles.authorAvatar}>VS</div>
           <div className={styles.authorInfo}>
             <p className={styles.authorName}>V S VIGHNESH</p>
-            <p className={styles.authorEmail}>your-email@gmail.com</p>
+            <p className={styles.authorEmail}>vsvighnesh18@gmail.com</p>
           </div>
         </div>
 
